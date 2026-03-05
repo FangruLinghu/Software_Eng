@@ -5,4 +5,5 @@
 * salt
 ## Instructions
 * put one avocado into a bowl.
-* mix some salt
+* mix some salt and milk
+
